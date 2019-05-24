@@ -1,9 +1,6 @@
 {
-    "user": [
-    {
-      "id" :
-      "fullname":   
-            
-    ],
+    "fullname": []
+    "email" : []
+    "password" :[]
     "donation":[]
 }
