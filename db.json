@@ -3,12 +3,12 @@
     {
       "fullname": "John Smith",
       "email": "johnsmith@gmail.com",
-      "passowrd": "password"
+      "password": "password"
     }
   ],
   "donations": [
     {
-      "email": "johnsmith@gmail.com,
+      "email": "johnsmith@gmail.com",
       "value": 2
     }
   ]
