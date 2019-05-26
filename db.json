@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "id": 1,
       "fullname": "John Smith",
       "email": "johnsmith@gmail.com",
       "password": "password"
@@ -8,6 +9,7 @@
   ],
   "donations": [
     {
+      "id": 1,
       "email": "johnsmith@gmail.com",
       "value": 2
     }
